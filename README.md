@@ -16,8 +16,8 @@ Applied the following **models**
 **Results**
 | Model | Test accuracy |
 | --- | --- |
-| DNN (2 hidden layers) | 97.50% |
-| CNN | 97.50% |
-| CNN with residual connections | 98.56% |
-| CNN with residual connections + BN | 99.13% |
-| CNN with residual connections + BN + Dropout| 99.34% |
+| DNN (2 hidden layers) | 97.70% |
+| CNN | 98.59% |
+| CNN with residual connections | 98.70% |
+| CNN with residual connections + BN | 99.16% |
+| CNN with residual connections + BN + Dropout| 99.28% |
