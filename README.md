@@ -13,6 +13,10 @@ Applied the following **models**
 * CNN with Residual connections + Batch Normalization + Dropout layer
 ---
 
+**Observation:** ```ReLU(MaxPool(x)) = MaxPool(ReLU(x))```
+
+---
+
 **Results**
 | Model | Test accuracy |
 | --- | --- |
