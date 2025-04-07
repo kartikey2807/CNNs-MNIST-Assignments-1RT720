@@ -19,7 +19,7 @@ Applied the following **models**
 
 **Results**
 | Model | Test accuracy |
-| --- | --- |
+| :- | :- |
 | DNN (2 hidden layers) | 97.70% |
 | CNN | 98.59% |
 | CNN with residual connections | 98.70% |
