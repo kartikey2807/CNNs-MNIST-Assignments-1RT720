@@ -1,4 +1,4 @@
-# Introduction
+# Convolution Nets on MNIST dataset
 **Problem**
 * Classification
 * MNIST dataset
