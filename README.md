@@ -1,8 +1,7 @@
 # Convolution Neural Nets on MNIST dataset
 **Problem**
-* Classification
-* MNIST dataset
-* Using DNNs and CNNs
+* Classification on the MNIST dataset
+* Using NNs and CNNs
 ---
 
 Applied the following **models**
