@@ -5,7 +5,7 @@
 ---
 
 Applied the following **models**
-* Neural Net (with 2 hidden layers)
+* Neural Nets (with 2 Hidden layers)
 * CNN (3 pairs of Conv-ReLU layers)
 * CNN with Residual connections
 * CNN with Residual connections + Batch Normalization
