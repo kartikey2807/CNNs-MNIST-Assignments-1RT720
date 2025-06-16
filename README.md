@@ -1,4 +1,4 @@
-# Convolution Nets on MNIST dataset
+# Convolution Neural Nets on MNIST dataset
 **Problem**
 * Classification
 * MNIST dataset
@@ -13,7 +13,7 @@ Applied the following **models**
 * CNN with Residual connections + Batch Normalization + Dropout layer
 ---
 
-**Observation:** ```ReLU(MaxPool(x)) = MaxPool(ReLU(x))```
+**Insight:** `ReLU(MaxPool(x)) = MaxPool(ReLU(x))`
 
 ---
 
