@@ -1,4 +1,4 @@
-# Convolution Neural Nets on MNIST dataset
+# Convolution Neural Nets
 **Problem**
 * Classification on the MNIST dataset
 * Using NNs and CNNs
