@@ -1,26 +1,13 @@
 # Convolution Neural Nets
-**Problem**
-* Classification on the MNIST dataset
-* Using NNs and CNNs
+* Classification on the MNIST Dataset
+* using dropout and skip connections
+* Implemented CNNs with *skip connections* / *BatchNorm* / *dropout*
+* **Insight:** `ReLU(MaxPool(x)) = MaxPool(ReLU(x))`
 ---
-
-Applied the following **models**
-* Neural Nets (with 2 Hidden layers)
-* CNN (3 pairs of Conv-ReLU layers)
-* CNN with Residual connections
-* CNN with Residual connections + Batch Normalization
-* CNN with Residual connections + Batch Normalization + Dropout layer
----
-
-**Insight:** `ReLU(MaxPool(x)) = MaxPool(ReLU(x))`
-
----
-
 **Results**
 | Model | Test accuracy |
 | :- | :- |
-| DNN (2 hidden layers) | 97.70% |
-| CNN | 98.59% |
-| CNN with residual connections | 98.70% |
-| CNN with residual connections + BN | 99.16% |
-| CNN with residual connections + BN + Dropout| 99.28% |
+| Neural Nets (2 hidden layers) | 97.70% |
+| CNN + skip connection | 98.70% |
+| CNN + skip connection + BN | 99.16% |
+| CNN + skip connection + BN + Dropout| 99.28% |
