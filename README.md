@@ -1,8 +1,8 @@
 # Convolution Neural Nets
-* Classification on the MNIST Dataset
-* using dropout and skip connections
+* Classification on the MNIST dataset
+* used dropout and skip connections
 * Implemented CNNs with *skip connections* / *BatchNorm* / *dropout*
-* **Insight:** `ReLU(MaxPool(x)) = MaxPool(ReLU(x))`
+* Insight: **ReLU(MaxPool(x)) = MaxPool(ReLU(x))**
 ---
 **Results**
 | Model | Test accuracy |
